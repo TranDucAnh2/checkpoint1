@@ -1,0 +1,40 @@
+.title {
+    text-align: center;
+    margin-top: -30px;
+}
+
+h3 {
+    margin-left: 130px;
+}
+
+.mail {
+    text-align: right;
+    margin-top: -40px;
+}
+
+.icon {
+    width: 25px;
+    height: auto;
+}
+
+.photo {
+   width: 300px; 
+   height: auto;
+}
+
+.desc {
+    width: 300px;
+    text-align: justify;
+    
+}
+
+.content {
+    flex-direction: row;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.stuff {
+    align-items: center;
+}
+
